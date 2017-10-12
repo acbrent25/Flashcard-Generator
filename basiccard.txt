@@ -1,1 +1,10 @@
-undefinedundefinedundefinedsdf
+Flashcard front: Front 1,  Flashcard Back: Back 1
+Flashcard front: Front 2,  Flashcard Back: Back 2
+Flashcard front: Front 3,  Flashcard Back: Back 3
+Flashcard front: Front 4,  Flashcard Back: Back 4
+Flashcard front: Front 5,  Flashcard Back: Back 5
+Flashcard front: Front 6,  Flashcard Back: Back 6
+Flashcard front: Front 7,  Flashcard Back: Back 7
+Flashcard front: Front 8,  Flashcard Back: Back 8
+Flashcard front: Front 9,  Flashcard Back: Back 9
+Full Text: George Washington was the first president of the United States.,  Cloze: George Washington
